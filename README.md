@@ -16,10 +16,21 @@ Customer churn is one of the major challenges faced by telecom companies. This d
 - Business recommendations
 
 ## Key Insights
-- Customers with month-to-month contracts have higher churn rates
-- Fiber optic users show maximum churn behavior
-- Electronic check payment users are more likely to churn
-- Customers without tech support and security services tend to leave more often
+• The customer churn rate reached 27%, with 1,869 customers leaving out of a total customer base of 7,043, indicating a significant customer retention challenge.
+
+• Customers with month-to-month contracts and lower tenure demonstrate the highest probability of churn, suggesting lower long-term customer commitment.
+
+• Customers without dependents or partners are more likely to discontinue services compared to customers with family associations.
+
+• Senior citizens show comparatively better customer retention behavior than non-senior customers.
+
+• Fibre Optic internet service users exhibit the highest churn rate among all internet service categories, indicating possible dissatisfaction related to pricing or service quality.
+
+• Electronic check is the most commonly used payment method among churned customers, highlighting a potential correlation between payment preferences and customer retention.
+
+• Customers who do not subscribe to value-added services such as Tech Support, Device Protection, and Online Security are more likely to leave the company due to lower service engagement and satisfaction.
+
+• Long-term contract customers demonstrate significantly lower churn rates, emphasizing the importance of customer loyalty programs and retention-focused strategies.
 
 ## Tools & Technologies
 - Power BI
